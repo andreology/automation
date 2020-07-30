@@ -1,0 +1,2 @@
+# automation
+In this demonstration, I show how to automate repetitive tasks using Python. I provide a “cookbook” for developers and non-developers alike, allowing automation of almost anything: from filling out PDFs and launching programs, to sending emails and voicemails, working with calendars, and organizing files and folders. Also, how to use Python and open-source libraries and tools such as Beautiful Soup and Selenium to craft elegant solutions that do the grunt work for you.
